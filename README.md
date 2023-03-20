@@ -9,6 +9,8 @@ You can find details about this project on the YouTube video: https://youtu.be/P
 <br>
 
 ---
+<img src="https://github.com/maudeve-it/3.3V-3A-step-down-converter-powered-by-USB-C/blob/main/Immagine%202023-03-20%20104231.png" width="745" height="425">
+
 ---
 
 <br>
