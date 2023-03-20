@@ -1,3 +1,6 @@
+<img src="https://github.com/maudeve-it/3.3V-3A-step-down-converter-powered-by-USB-C/blob/main/Immagine%202023-03-20%20104231.png" width="745" height="425">
+
+
 # A 3.3V/3A step-down converter powered via USB-C
 <br>
 Without needing to use a USB-C PD controller chip, handling communication over the USB cable, USB-C standard allows to get 5V up to 3A through a hardware availability detection.<br> Here I show a design developed on KiCad and assembled through JLCPCB. It is sinking power from a USB-PD connector and provides 5V and 3.3V up to 3A through a step-down converter.<br>
@@ -9,8 +12,6 @@ You can find details about this project on the YouTube video: https://youtu.be/P
 <br>
 
 ---
-<img src="https://github.com/maudeve-it/3.3V-3A-step-down-converter-powered-by-USB-C/blob/main/Immagine%202023-03-20%20104231.png" width="745" height="425">
-
 ---
 
 <br>
