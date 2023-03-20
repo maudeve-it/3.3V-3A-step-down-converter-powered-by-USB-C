@@ -11,7 +11,7 @@ You can find details about this project on the YouTube video: https://youtu.be/P
 <br>
 <br>
 
-_**<i>PLEASE NOTE</i>**_
+_**<i>PLEASE NOTE</i>**_<br>
 Seeing the video is strongly suggested.<br>
 Project stored here is what developed and tested on YouTube.<br>
 Once connected to a USB-C PD source it shows a "transient" for about 12 seconds. Avoiding it, a filtering caoacitor should be added.<br>
@@ -38,7 +38,7 @@ Puoi trovare i dettagli sul progetto nel video YouTube: https://youtu.be/P4Y0VTd
 <br>
 <br>
 
-_**<i>NOTA BENE</i>**_
+_**<i>NOTA BENE</i>**_<br>
 Vedere il video è fortemente suggerito.<br>
 Il progetto archiviato qui è quello sviluppato e testato su YouTube.<br>
 Connesso ad una alimentazione USB-C PD, mostra un "transitorio" di circa 12 secondi e per evitarlo si deve aggiungere un condensatore di filtro.<br>
