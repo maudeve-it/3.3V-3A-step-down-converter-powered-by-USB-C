@@ -9,6 +9,12 @@ Project was developed on KiCad 7<br>
 <br>
 You can find details about this project on the YouTube video: https://youtu.be/P4Y0VTdbARY
 <br>
+_**<i>PLEASE NOTE</i>**_
+Seeing the video is strongly suggested.<br>
+Project stored here is what developed and tested on YouTube.<br>
+Once connected to a USB-C PD source it shows a "transient" for about 12 seconds. Avoiding it, a filtering caoacitor should be added.<br>
+Again as shown in the video.<br>
+<br>
 <br>
 
 ---
@@ -28,6 +34,11 @@ Il progetto è stato realizzato su KiCad 7<br>
 <br>
 Puoi trovare i dettagli sul progetto nel video YouTube: https://youtu.be/P4Y0VTdbARY
 <br>
+_**<i>NOTA BENE</i>**_
+Vedere il video è fortemente suggerito.<br>
+Il progetto archiviato qui è quello sviluppato e testato su YouTube.<br>
+Connesso ad una alimentazione USB-C PD, mostra un "transitorio" di circa 12 secondi e per evitarlo si deve aggiungere un condensatore di filtro.<br>
+Ancora come mostrato nel video.<br>
 
 
 
