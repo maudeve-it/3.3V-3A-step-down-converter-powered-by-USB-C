@@ -14,7 +14,9 @@ You can find details about this project on the YouTube video: https://youtu.be/P
 <br>
 <br>
 <br>
+
 # Uno stabilizzatore step-down 3.3V/3A alimentato via USB-C
+
 <br>
 Senza la necessità di usare un controller chip per USB-C PD, che gestisce la comunicazione sul cavo USB, lo standard USB permette di prelevare 5V fino a 3A controllando la disponibilità via hardware.<br>
 Qui mostro un progetto realizzato su KiCad e realizzato attraverso JLCPCB, alimentato da una sorgente USB-PD, che fornisce 5V e 3.3V fino a 3A attraverso uno step-down converter.<br>
