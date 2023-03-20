@@ -11,11 +11,13 @@ You can find details about this project on the YouTube video: https://youtu.be/P
 <br>
 <br>
 
-_**<i>PLEASE NOTE</i>**_<br>
+<i>
+_**PLEASE NOTE**_<br>
 Seeing the video is strongly suggested.<br>
 Project stored here is what developed and tested on YouTube.<br>
 Once connected to a USB-C PD source it shows a "transient" for about 12 seconds. Avoiding it, a filtering caoacitor should be added.<br>
 Again as shown in the video.<br>
+</i>
 <br>
 <br>
 
